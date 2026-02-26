@@ -208,7 +208,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Abdelrahman Genedy**
 - LinkedIn: Abdelrahman Genedy
 - GitHub: [@AbdelrahmanGenedy](https://github.com/AbdelrahmanGenedy)
-- 
+
 ## 📧 Contact
 
 Questions or feedback? Feel free to reach out!
