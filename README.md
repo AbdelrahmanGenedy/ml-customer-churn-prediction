@@ -203,22 +203,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourwebsite.com]
-
+**Abdelrahman Genedy**
+- LinkedIn: Abdelrahman Genedy
+- GitHub: [@AbdelrahmanGenedy](https://github.com/AbdelrahmanGenedy)
+- 
 ## 📧 Contact
 
 Questions or feedback? Feel free to reach out!
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile]
+- Email: abdelrahmangenedy01@gmail.com
 
 ---
 
